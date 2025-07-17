@@ -1,5 +1,7 @@
 Pirmasis sakinys.
+Šiuos pakeitimus padarė Vardas
 Antrasis sakinys.
 Trečiasis sakinys.
 
 19:40 Pridėtas pradinis straipsnio turinys
+19:43 Pridėta Vardo eilutė
