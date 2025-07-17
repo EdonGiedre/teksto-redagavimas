@@ -1,4 +1,5 @@
 Pirmasis sakinys.
+Šiuos pakeitimus padarė Pavardė
 Šiuos pakeitimus padarė Vardas
 Antrasis sakinys.
 Trečiasis sakinys.
